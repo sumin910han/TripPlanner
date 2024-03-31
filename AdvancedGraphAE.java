@@ -1,10 +1,3 @@
-// --== CS400 File Header Information ==--
-// Name: Aditya Anandan
-// Email: anandan2@wisc.edu
-// Group and Team: BK blue
-// Group TA: Naman Gupta
-// Lecturer: Gary Dahl
-// Notes to Grader: <optional extra notes>
 import java.util.ArrayList;
 import java.util.Hashtable;
 import java.util.LinkedList;

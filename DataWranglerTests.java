@@ -1,11 +1,3 @@
-// --== CS400 File Header Information ==--
-// Name: <Xerxis Palsetia>
-// Email: <xpalsetia@wisc.edu>
-// Group and Team: <BK Blue>
-// Group TA: <Naman Gupta>
-// Lecturer: <Gary Dahl>
-// Notes to Grader: <>
-
 import java.io.FileNotFoundException;
 import java.util.*;
 import org.junit.jupiter.api.Test;

@@ -1,11 +1,3 @@
-// --== CS400 File Header Information ==--
-// Name: Aditya Anandan
-// Email: anandan2@wisc.edu
-// Group and Team: BK blue
-// Group TA: Naman Gupta
-// Lecturer: Gary Dahl
-// Notes to Grader: <optional extra notes>
-
 // The Assertions class that we import from here includes assertion methods like assertEquals()
 // which we will used in test1000Inserts().
 import java.io.ByteArrayOutputStream;
